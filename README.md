@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eshin Griffith
 
 ## 🚀 About Me
-I'm a Full Stack TypeScript Developer with a passion for creating elegant solutions and developer tools. Since 2019, I've been diving deep into the JavaScript ecosystem, exploring its vast capabilities to solve complex problems. I currently work at [Kollacode](https://kollacode.com), where I develop full-stack Express + Vue applications deployed in the IBM Public Cloud.
+I'm a Full Stack TypeScript Developer with a passion for creating elegant solutions and developer tools. Since 2019, I've been diving deep into the JavaScript ecosystem, exploring its vast capabilities to solve complex problems. I previously worked at [Kollacode](https://kollacode.com), where I developed full-stack Express + Vue applications deployed in the IBM Public Cloud.
 
 ## 💼 Professional Experience
 - **Full Stack Development**: Building robust applications with Express, Vue, and TypeScript
@@ -33,7 +33,7 @@ I'm passionate about sharing knowledge and creating resources that help others d
 
 ## 📫 Connect With Me
 - GitHub: [@egriff38](https://github.com/egriff38)
-- Company: [Kollacode](https://kollacode.com)
+- Company: [ChiroHD](https://ChiroHd.com)
 
 ---
 
